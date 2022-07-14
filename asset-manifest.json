@@ -1,15 +1,13 @@
 {
   "files": {
-    "main.css": "/week14-final/static/css/main.ba08fddb.css",
-    "main.js": "/week14-final/static/js/main.6525f260.js",
-    "static/js/787.461c6625.chunk.js": "/week14-final/static/js/787.461c6625.chunk.js",
+    "main.css": "/week14-final/static/css/main.eb441db1.css",
+    "main.js": "/week14-final/static/js/main.e7cdaf99.js",
     "index.html": "/week14-final/index.html",
-    "main.ba08fddb.css.map": "/week14-final/static/css/main.ba08fddb.css.map",
-    "main.6525f260.js.map": "/week14-final/static/js/main.6525f260.js.map",
-    "787.461c6625.chunk.js.map": "/week14-final/static/js/787.461c6625.chunk.js.map"
+    "main.eb441db1.css.map": "/week14-final/static/css/main.eb441db1.css.map",
+    "main.e7cdaf99.js.map": "/week14-final/static/js/main.e7cdaf99.js.map"
   },
   "entrypoints": [
-    "static/css/main.ba08fddb.css",
-    "static/js/main.6525f260.js"
+    "static/css/main.eb441db1.css",
+    "static/js/main.e7cdaf99.js"
   ]
 }
